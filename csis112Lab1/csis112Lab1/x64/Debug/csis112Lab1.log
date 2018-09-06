@@ -1,0 +1,7 @@
+﻿  csis112Lab1.cpp
+c:\users\cody\source\repos\csis112lab1\csis112lab1\csis112lab1.cpp(36): error C2660: 'InputFilter': function does not take 0 arguments
+c:\users\cody\source\repos\csis112lab1\csis112lab1\csis112lab1.cpp(39): error C2660: 'InputFilter': function does not take 0 arguments
+c:\users\cody\source\repos\csis112lab1\csis112lab1\csis112lab1.cpp(94): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cody\source\repos\csis112lab1\csis112lab1\csis112lab1.cpp(95): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cody\source\repos\csis112lab1\csis112lab1\csis112lab1.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\cody\source\repos\csis112lab1\csis112lab1\csis112lab1.cpp(149): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
